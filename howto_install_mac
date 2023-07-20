@@ -1,0 +1,7 @@
+$ brew tap hashicorp/tap
+  
+$ brew install hashicorp/tap/terraform
+
+$ terraform --version
+Terraform v1.5.3
+on darwin_amd64
